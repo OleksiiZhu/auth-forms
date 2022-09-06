@@ -1,0 +1,9 @@
+<template>
+  <section>
+    <div>
+      <main>
+        <router-view></router-view>
+      </main>
+    </div>
+  </section>
+</template>
